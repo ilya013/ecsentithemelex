@@ -13,7 +13,7 @@ Russian tonal-thematic dictionary, which allows identifying the semantic orienta
 
 
 * Install the 64bit version of Python 3, for instance from https://www.python.org.
-Then run:
+Then run (https://pypi.org/project/ecsentithemelex/):
 
 ```javascript
 pip install ecsentithemelex
